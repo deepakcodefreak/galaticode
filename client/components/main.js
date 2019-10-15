@@ -4,7 +4,7 @@ import planetBackground from './threejs/planetBackground'
 const Main = () => {
   return (
     <div>
-      {planetBackground()}
+     {/* {planetBackground()} */}
       <div id="login-wrapper">
         <img id="login-logo" src="/GALACTICODE-logo_blue.png" />
         <div>
